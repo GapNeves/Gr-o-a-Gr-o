@@ -1,3 +1,11 @@
+## GRÃO A GRÃO
+
+⚠️ Ainda Trabalhando nesse projeto! ⚠️
+
+Grão a Grão será um site para gestão de finanças,
+primeiramente para uso próprio,
+automatizando cálculos e divisão de pagamentos e investimentos.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
