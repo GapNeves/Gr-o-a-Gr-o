@@ -1,9 +1,5 @@
-// import styles from "./page.module.css";
+import Header from '@/components/header/header';
 
 export default function Home() {
-  return (
-    <div>
-      <h1>Grão a Grão</h1>
-    </div>
-  );
+  return <Header />;
 }
